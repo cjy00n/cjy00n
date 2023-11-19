@@ -20,6 +20,7 @@
 
 
 🐱 About Me
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cjy921004@gmail.com)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://cjy00n.tistory.com/)
 
