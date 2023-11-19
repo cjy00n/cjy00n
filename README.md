@@ -20,9 +20,6 @@
 
 
 🐱 About Me
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yunabae482@gmail.com)](cjy921004@gmail.com)
-  [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://)]()
-  [![Velog Badge](https://img.shields.io/badge/tistory-000000?style=flat-square&logo=Tistory&logoColor=red&link=https://cjy00n.tistory.com/)](https://www.tistory.com/)
-  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cjy921004@gmail.com)
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://cjy00n.tistory.com/)
 
