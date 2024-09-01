@@ -4,13 +4,14 @@
 [<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>](https://cjy00n.tistory.com/)
 
 ### 📚 Study
-- 2024.08 건국대학교 컴퓨터공학부 졸업예정
--  2023.12 엘리스 SW트랙 6기 수료
+- 2023.12 엘리스 SW트랙 6기 수료
+- 2024.08 건국대학교 컴퓨터공학부 졸업
 
 
  ### 🪪 Certificate
 - 2022.06 정보처리기사 (과학기술정보통신부)
 - 2023.04 SQLD (한국데이터산업진흥원)
+- 2024.09 ADsP (한국데이터산업진흥원)
 
 
 ### 🏆 Award
