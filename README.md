@@ -1,5 +1,3 @@
-### 안녕하세요, 저는 최정윤입니다.
-#### 현대적인 웹 경험을 창조하는 데 열정을 가진 웹 개발자 지망생입니다.
 [<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>](mailto:cjy921004@gmail.com)
 [<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>](https://cjy00n.tistory.com/)
 
